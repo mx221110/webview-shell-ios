@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>WebViewShell</string>
+	<string>Komi Store</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -28,7 +28,7 @@
 	     ★ 改成你自己的域名 -->
 	<key>WKAppBoundDomains</key>
 	<array>
-		<string>example.com</string>
+		<string>mx221110.github.io</string>
 	</array>
 
 	<key>UISupportedInterfaceOrientations</key>
